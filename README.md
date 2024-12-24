@@ -18,6 +18,7 @@
   - `docx` (for handling Word document processing)
   - `random` (for randomized variations)
   - Any other dependencies mentioned in the `requirements.txt` file.
+  - `scikit-learn`
 
 ---
 
